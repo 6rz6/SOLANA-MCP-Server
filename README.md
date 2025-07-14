@@ -1,4 +1,4 @@
-# Solana MCP Server
+# SOLANA-MCP-Server
 
 A Model Context Protocol (MCP) server for interacting with the Solana blockchain. This server provides tools to query account balances, transaction history, token information, and network statistics.
 
@@ -30,7 +30,7 @@ Add to your MCP settings:
   "mcpServers": {
     "solana": {
       "command": "node",
-      "args": ["/path/to/solana-mcp/build/index.js"],
+      "args": ["/path/to/SOLANA-MCP-Server/build/index.js"],
       "env": {
         "SOLANA_RPC_URL": "https://api.mainnet-beta.solana.com"
       }
