@@ -13,8 +13,8 @@ A Model Context Protocol (MCP) server for interacting with the Solana blockchain
 ## Installation
 
 ```bash
-git clone https://github.com/6rz6/solana-mcp.git
-cd solana-mcp
+git clone https://github.com/6rz6/SOLANA-MCP-Server.git
+cd SOLANA-MCP-Server
 npm install
 npm run build
 ```
